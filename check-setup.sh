@@ -3,7 +3,7 @@
 short_system=$(uname -s)
 sys_vagrant="0"
 sys_cygwin="0"
-sys_osx="0"
+sys_osx="0" 
 
 # set this to the number of the current lab
 cur_lab=4
